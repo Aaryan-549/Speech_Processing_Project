@@ -1,0 +1,5 @@
+
+*.ini
+
+# Generated spectrogram image data (too large for git)
+images/
